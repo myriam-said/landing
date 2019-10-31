@@ -1,0 +1,24 @@
+
+.card ul{
+  padding: 100px 20px;
+  color: grey;
+  background-size:cover;
+  background-position: center;
+  height: 274px;
+  display: flex;
+  justify-content: space-around;
+  margin: 0px;
+
+}
+
+.card li{
+  border: solid rgba(200, 200, 200, 1);
+  border-width: 1px;
+  border-radius: 4px;
+  height: 274px;
+  width: 242px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+
+}

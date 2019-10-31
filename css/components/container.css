@@ -1,0 +1,17 @@
+
+.container h2{
+  opacity: 0,8;
+  font-size: 20 px;
+  margin-bottom: 30 px;
+  text-align: center;
+
+}
+.container p{
+  opacity:  0,9;
+  font-size: 12 px;
+  padding-bottom: 0;
+}
+
+.container img{
+  height : 100px;
+}
